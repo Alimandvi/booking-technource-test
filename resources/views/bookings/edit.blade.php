@@ -1,6 +1,6 @@
 @extends('layouts.master')
-@section('title', 'Slot Booking')
-@section('pageTitle', 'Book a slot')
+@section('title', 'Edit Slot')
+@section('pageTitle', 'Edit slot')
 <style>
     .form-group {
         margin-bottom: 10px;
